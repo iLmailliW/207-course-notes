@@ -77,5 +77,3 @@ If you notice any issues within the course notes, simply go to the `Issues` tab 
 Requests for additional resources or explanations on material should be directed to the course discussion board during the term.
 
 You may also open a pull request from your fork if you wish to propose revisions to the upstream notes; we will review and accept these manually.
-
-test
